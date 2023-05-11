@@ -25,10 +25,10 @@ namespace dataImages
             BinaryReader br = new BinaryReader(File.OpenRead(path));
             //txtData.Text = br.ReadChar().ToString();
             //foreach (char myChar in br.ReadChars(6)) txtData.Text += myChar;
-
-            byte[] buffer = br.ReadBytes(2);
+            br.BaseStream.Position = 0x00;
+            byte[] buffer = br.ReadBytes(12);
             Array.Reverse(buffer);
-            txtData.Text=BitConverter.ToString(buffer);
+            txtData.Text=BitConverter.ToInt32(buffer, 0).ToString("x");
             br.Dispose();
         }
     }
