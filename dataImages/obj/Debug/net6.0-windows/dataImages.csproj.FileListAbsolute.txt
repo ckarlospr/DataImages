@@ -1,0 +1,17 @@
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\bin\Debug\net6.0-windows\dataImages.exe
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\bin\Debug\net6.0-windows\dataImages.deps.json
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\bin\Debug\net6.0-windows\dataImages.runtimeconfig.json
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\bin\Debug\net6.0-windows\dataImages.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\bin\Debug\net6.0-windows\dataImages.pdb
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.csproj.AssemblyReference.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.Form1.resources
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.csproj.GenerateResource.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.AssemblyInfoInputs.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.AssemblyInfo.cs
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.csproj.CoreCompileInputs.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\refint\dataImages.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.pdb
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\dataImages.genruntimeconfig.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\dataImages\dataImages\obj\Debug\net6.0-windows\ref\dataImages.dll
