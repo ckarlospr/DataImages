@@ -14,6 +14,10 @@ namespace dataImages
 
         private void btnOpen_Click(object sender, EventArgs e)
         {
+            txtFile.Text = @"C:\Users\ckarlos\OneDrive\Escritorio\fileTest.bin";
+            txtFile.Focus();
+            path = txtFile.Text;
+
             OpenFileDialog ofd = new OpenFileDialog();
             if(ofd.ShowDialog() == DialogResult.OK )
             {
@@ -32,11 +36,11 @@ namespace dataImages
             
             br.BaseStream.Position = 0x00;
             Byte[] bytes = br.ReadBytes(6);
-            MessageBox.Show(bytes.Length+"");
+            //MessageBox.Show(bytes.Length+"");
             foreach (char c in bytes) txtData.Text += c;
             txtData.Text += "\r\n";
             Array.Reverse(bytes);
-            foreach (char c in br.ReadChars(5)) txtData.Text += c;
+            foreach (char c in bytes) txtData.Text += c;
             txtData.Text += "\r\n";
             //txtData.Text += BitConverter.ToInt64(bytes, 0).ToString("x");
             br.Dispose();
