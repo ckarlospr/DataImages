@@ -40,9 +40,9 @@ namespace dataImages
             //txtData.Text += BitConverter.ToString(bytes);
             //txtData.Text += "\r\n";
             Array.Reverse(bytes);
-            foreach (char c in bytes) txtData.Text += c;
+            //foreach (char c in bytes) txtData.Text += c;
             //txtData.Text += "\r\n";
-            //txtData.Text += BitConverter.ToString(bytes);
+            txtData.Text += BitConverter.ToString(bytes);
             //txtData.Text += "\r\n";
             // foreach (byte c in bytes) txtData.Text += BitConverter.ToInt16(c).ToString();
             //txtData.Text += BitConverter.ToInt64(bytes, 0).ToString("x");
